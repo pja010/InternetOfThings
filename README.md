@@ -14,4 +14,4 @@ An IoT device can be defined as a single-pusposed computer-powered and network-c
 https://github.com/pja010/IoT-RMT-Servo
 * `IoT-QuotesWebScraper` - Web-scraping system connecting a server and client using TCP 
 https://github.com/pja010/IoT-QuotesWebScraper
-
+* `IoT-FunctionalProgramming` - Using the LISP language Clojure to implement the MQTT network protocol
