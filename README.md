@@ -1,6 +1,8 @@
 # Internet of Things (IoT)
 
-An exploration of IoT technology using the ESP32-S2, a "a highly integrated, low-power, single-core Wi-Fi Microcontroller"
+An exploration of IoT technology, using the ESP32-S2 - a "a highly integrated, low-power, single-core Wi-Fi Microcontroller".
+
+![image](https://user-images.githubusercontent.com/74726737/166810278-0b465acd-369f-4079-b2f7-be012e2b984f.png)
 https://www.espressif.com/en/products/socs/esp32-s2
 
 ## What is the Internet of Things?
