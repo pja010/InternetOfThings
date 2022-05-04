@@ -11,5 +11,7 @@ An IoT device can be defined as a single-pusposed computer-powered and network-c
 
 ## IoT Projects 
 * `Peripherals` - IoT System with Servo Motor and Motor Control Pulse Width Modulator
+https://github.com/pja010/IoT-RMT-Servo
 * `IoT-QuotesWebScraper` - Web-scraping system connecting a server and client using TCP 
-* ``
+https://github.com/pja010/IoT-QuotesWebScraper
+
